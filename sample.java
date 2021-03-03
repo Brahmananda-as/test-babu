@@ -1,4 +1,4 @@
 Class Sample {
-
+int a;
 
 }
